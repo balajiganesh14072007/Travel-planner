@@ -1,0 +1,6 @@
+{
+  "name": "TravelMate — Smart Travel Planning Application",
+  "description": "Smart MERN travel planning and discovery application featuring itinerary building, expense & budget management, interactive route mapping, transport comparisons, and attraction discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
